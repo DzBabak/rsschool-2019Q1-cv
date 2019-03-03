@@ -1,3 +1,14 @@
+   [Summary](#Summary)
+   [Skills](#skills)
+   [Experience](#experience)
+   [Education](#education)
+   [GitHub](#github)
+
+*   [+375 33 666-13-03](<tel:+375336661303>)
+*   [linkedin.com](https://www.linkedin.com/in/dzmitry-babak)
+*   [github.com](https://github.com/DzmitryBabak)
+*   [VK](https://vk.com/alexgott_vkl)
+***
 ## Summary
 
 ![Dzmitry Babak photo](avatar.jpg)
